@@ -1,0 +1,15 @@
+{
+	"appname": "January Webinar Prebaked",
+	"scope": "FullAccess",
+	"clientid": "C1DD7B36-BBFA-424B-99AB-B6BB32CBA005",
+	"buyerid": "Buyer01",
+	"catalogid": "Buyer01",
+	"environment": "production",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
